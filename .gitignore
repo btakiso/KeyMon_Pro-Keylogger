@@ -1,0 +1,115 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg
+*.egg-info/
+eggs/
+*.egg-info/
+dist/
+build/
+develop-eggs/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+
+# Virtual Environment
+keylogger_env/
+.env/
+.venv/
+env/
+venv/
+ENV/
+
+# IDE specific files
+.idea/
+.vscode/
+*.swp
+*.swo
+.project
+.pydevproject
+.settings/
+*.sublime-workspace
+*.sublime-project
+.spyderproject
+.spyproject
+.ropeproject
+
+# Logs and databases
+logs/
+*.log
+*.sqlite
+*.sqlite3
+*.db
+keymon.log
+*.log.*
+
+# Build and spec files
+*.spec
+!monitor.spec
+!config.spec
+*.manifest
+*.exe
+!dist/keymon_monitor.exe
+!dist/keymon_config.exe
+*.dll
+*.pyd
+*.so
+*.dylib
+
+# Project specific
+screenshots/
+temp/
+*.tmp
+~*
+*.bak
+.DS_Store
+Thumbs.db
+
+# Removed/unused files
+minimal_payload.py
+create_payload.py
+payload.py
+build.py
+svchost.spec
+update.spec
+version.txt
+build_settings.json
+
+# Config and sensitive files
+config.json
+telegram_config.json
+*.key
+*.pem
+*.crt
+
+# Cache directories
+.cache/
+__pycache__/
+.pytest_cache/
+.mypy_cache/
+
+# System Files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+Desktop.ini
+
+# Backup files
+*.bak
+*~
+*.swp 
