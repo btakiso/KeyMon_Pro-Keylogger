@@ -1,7 +1,6 @@
-# KeyMon_Pro - Educational Keylogging Research Tool
-
+# KeyMon_Pro - Advanced keylogger monitoring tool with Telegram bot integration
 ## 📖 Overview
-KeyMon_Pro is a cybersecurity research and educational tool designed to study system monitoring techniques in controlled environments. This project aims to help security students understand input monitoring mechanisms, data flow patterns, and potential system vulnerabilities.
+KeyMon_Pro is an educational tool designed to study system monitoring techniques in controlled environments. This project aims to help security students understand input monitoring mechanisms, data flow patterns, and potential system vulnerabilities.
 
 ## ⚠️ Important Notice
 This software is strictly for **educational and research purposes** only. It must be used exclusively in controlled, isolated virtual environments with explicit consent. Any use outside of authorized research environments is prohibited.
