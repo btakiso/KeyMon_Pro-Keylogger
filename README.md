@@ -131,6 +131,7 @@ python gui.py
 #    - Select monitoring options and features
 #    - Click Build to generate executable
 ```
+![image](https://github.com/user-attachments/assets/24abf430-a200-4b74-90dd-93d773e8ead8)
 
 ## 🔨 Building Executable Files
 
